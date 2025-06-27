@@ -18,7 +18,7 @@ const Navbar = () => {
   return (
     <NavbarContainer>
       <Logo mood={mood} to="/">
-        MoodPlay
+        Moodsic
       </Logo>
       <RoutesContainer>
         <RouteLink
